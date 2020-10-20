@@ -12,7 +12,7 @@ public class test1 {
 		driver.get("http://spicejet.com");
 		driver.findElement(By.id("divpaxinfo")).click();
 
-		   Thread.sleep(2000L);
+		   Thread.sleep(3000L);
 
 		   /*int i=1;
 
