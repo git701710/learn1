@@ -13,6 +13,8 @@ public class test1 {
 		driver.findElement(By.id("divpaxinfo")).click();
 
 		   Thread.sleep(3000L);
+		   
+		   System.out.println("new change in introduction");
 
 		   /*int i=1;
 
