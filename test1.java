@@ -16,9 +16,7 @@ public class test1 {
 		   
 		   System.out.println("new change in introduction");
 		   System.out.println("new change in branch1");
-		   System.out.println("new change in branch2");
-		   System.out.println("new change in branch3");
-
+		 
 		   /*int i=1;
 
 		while(i<5)
